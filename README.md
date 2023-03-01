@@ -20,7 +20,7 @@ I'm in love with Web Technologies and well versed in MERN/MEVN Stack Development
 
 ### 🚀 Here's something about me 
 
-- 😄 Frontend Developer at [Trade Hat](http://tradehat.com)
+- 😄 Software Engineer at [Trade Hat](http://tradehat.com)
 - 🔭 [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
 - 🌱 Beta Microsoft Learn Student Ambassador ([MLSA](https://studentambassadors.microsoft.com/))
 - 🤔 Ex-GDSC Lead at ITU, powered by Google Devs
